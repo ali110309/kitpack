@@ -1,0 +1,398 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: kitpack for persian elementor\n"
+"POT-Creation-Date: 2020-11-24 18:45+0330\n"
+"PO-Revision-Date: 2020-11-24 20:00+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/lib/exopite-simple-options/assets/editors/ace/worker-coffee.js:1
+msgid "arguments"
+msgstr "arguments"
+
+#: includes/lib/exopite-simple-options/assets/editors/ace/worker-coffee.js:1
+msgid "RegExp"
+msgstr "RegExp"
+
+#: includes/lib/exopite-simple-options/assets/editors/ace/worker-coffee.js:1
+msgid "Math"
+msgstr "Math"
+
+#: includes/lib/exopite-simple-options/assets/jquery.fine-uploader.min.js:3
+msgid " request for "
+msgstr " request for "
+
+#: includes/lib/exopite-simple-options/assets/jquery.fine-uploader.min.js:3
+msgid "Sending "
+msgstr "Sending "
+
+#: includes/KPE_Options.class.php:50
+msgid "کیت پک المنتور"
+msgstr "کیت پک المنتور"
+
+#: includes/KPE_Options.class.php:53
+msgid "افزونه کیت پک برای المنتور فارسی"
+msgstr "افزونه کیت پک برای المنتور فارسی"
+
+#: includes/KPE_Options.class.php:61 kit-pack-for-persian-elementor.php:117
+msgid "کیت پک"
+msgstr "کیت پک"
+
+#: includes/KPE_Options.class.php:67
+msgid "نسخه افزونه"
+msgstr "نسخه افزونه"
+
+#: includes/KPE_Options.class.php:68
+msgid "برای عملکرد بهتر افزونه، همیشه آن را به آخرین نسخه موجود بروزرسانی کنید."
+msgstr "برای عملکرد بهتر افزونه، همیشه آن را به آخرین نسخه موجود بروزرسانی کنید."
+
+#: includes/KPE_Options.class.php:74
+msgid ""
+"به صورت پیش فرض افزونه کیت پک فونت بخش های مدیریت و المنتور را به \"وزیر\" تغییر می "
+"دهد، در این قسمت می توانید این مورد را غیر فعال کنید."
+msgstr ""
+"به صورت پیش فرض افزونه کیت پک فونت بخش های مدیریت و المنتور را به \"وزیر\" تغییر می "
+"دهد، در این قسمت می توانید این مورد را غیر فعال کنید."
+
+#: includes/KPE_Options.class.php:79
+msgid "اصلاح فونت مدیریت"
+msgstr "اصلاح فونت مدیریت"
+
+#: includes/KPE_Options.class.php:80
+msgid "تغییر فونت پیشخوان وردپرس به فونت \"وزیر\" "
+msgstr "تغییر فونت پیشخوان وردپرس به فونت \"وزیر\" "
+
+#: includes/KPE_Options.class.php:86
+msgid "اصلاح فونت المنتور"
+msgstr "اصلاح فونت المنتور"
+
+#: includes/KPE_Options.class.php:87
+msgid "تغییر فونت افزونه المنتور به فونت \"وزیر\" جهت سازگاری بهتر با زبان فارسی"
+msgstr "تغییر فونت افزونه المنتور به فونت \"وزیر\" جهت سازگاری بهتر با زبان فارسی"
+
+#: includes/KPE_Options.class.php:93 includes/KPE_Options.class.php:99
+msgid "کیت های آماده المنتور"
+msgstr "کیت های آماده المنتور"
+
+#: includes/KPE_Options.class.php:100
+msgid "این قسمت به زودی فعال خواهد شد"
+msgstr "این قسمت به زودی فعال خواهد شد"
+
+#: includes/KPE_Options.class.php:119
+msgid " فارسی ساز المنتور"
+msgstr " فارسی ساز المنتور"
+
+#: includes/KPE_Options.class.php:130
+msgid "<p>این بخش به زودی فعال می شود.</p>"
+msgstr "<p>این بخش به زودی فعال می شود.</p>"
+
+#: includes/KPE_Options.class.php:150
+msgid "فارسی سازی های دیگر"
+msgstr "فارسی سازی های دیگر"
+
+#: includes/KPE_Options.class.php:156
+msgid "<p>این قسمت به زودی فعال می شود.</p>"
+msgstr "<p>این قسمت به زودی فعال می شود.</p>"
+
+#: includes/KPE_Options.class.php:161
+msgid "آیکن های حرفه ای"
+msgstr "آیکن های حرفه ای"
+
+#: includes/KPE_Options.class.php:168
+msgid ""
+"<p>در این قسمت می توانید آیکن های حرفه ای اضافه شده به افزونه المنتور را فعال یا "
+"غیر فعال نمایید.</p>"
+msgstr ""
+"<p>در این قسمت می توانید آیکن های حرفه ای اضافه شده به افزونه المنتور را فعال یا "
+"غیر فعال نمایید.</p>"
+
+#: includes/KPE_Options.class.php:173
+msgid ""
+"برای مشاهده لیست آیکن ها می توانید به وب سایت کیت پک مراجعه کنید. <a href=\"https://"
+"kitpack.ir/icons\" target=\"_blank\">لیست آیکن ها</a>"
+msgstr ""
+"برای مشاهده لیست آیکن ها می توانید به وب سایت کیت پک مراجعه کنید. <a href=\"https://"
+"kitpack.ir/icons\" target=\"_blank\">لیست آیکن ها</a>"
+
+#: includes/KPE_Options.class.php:178
+msgid "آیکن پک ایرانی"
+msgstr "آیکن پک ایرانی"
+
+#: includes/KPE_Options.class.php:179
+msgid "فعال/غیر فعال کردن آیکن پک ایرانی"
+msgstr "فعال/غیر فعال کردن آیکن پک ایرانی"
+
+#: includes/KPE_Options.class.php:188
+msgid "فونت های فارسی"
+msgstr "فونت های فارسی"
+
+#: includes/KPE_Options.class.php:195
+msgid ""
+"<p>در این قسمت می توانید فونت های فارسی اضافه شده به افزونه المنتور را فعال یا غیر "
+"فعال نمایید.</p>"
+msgstr ""
+"<p>در این قسمت می توانید فونت های فارسی اضافه شده به افزونه المنتور را فعال یا غیر "
+"فعال نمایید.</p>"
+
+#: includes/KPE_Options.class.php:200
+msgid "فونت انجمن"
+msgstr "فونت انجمن"
+
+#: includes/KPE_Options.class.php:201
+msgid "فعال/غیر فعال کردن فونت فارسی انجمن"
+msgstr "فعال/غیر فعال کردن فونت فارسی انجمن"
+
+#: includes/KPE_Options.class.php:207
+msgid "فونت وزیر"
+msgstr "فونت وزیر"
+
+#: includes/KPE_Options.class.php:208
+msgid "فعال/غیر فعال کردن فونت فارسی وزیر"
+msgstr "فعال/غیر فعال کردن فونت فارسی وزیر"
+
+#: includes/KPE_Options.class.php:214
+msgid "فونت سمیم"
+msgstr "فونت سمیم"
+
+#: includes/KPE_Options.class.php:215
+msgid "فعال/غیر فعال کردن فونت فارسی سمیم"
+msgstr "فعال/غیر فعال کردن فونت فارسی سمیم"
+
+#: includes/KPE_Options.class.php:221
+msgid "فونت شبنم"
+msgstr "فونت شبنم"
+
+#: includes/KPE_Options.class.php:222
+msgid "فعال/غیر فعال کردن فونت فارسی شبنم"
+msgstr "فعال/غیر فعال کردن فونت فارسی شبنم"
+
+#: includes/KPE_Options.class.php:229
+msgid "فونت میخک"
+msgstr "فونت میخک"
+
+#: includes/KPE_Options.class.php:230
+msgid "فعال/غیر فعال کردن فونت فارسی میخک"
+msgstr "فعال/غیر فعال کردن فونت فارسی میخک"
+
+#: includes/KPE_Options.class.php:238
+msgid "درباره کیت پک"
+msgstr "درباره کیت پک"
+
+#: includes/KPE_Options.class.php:245
+msgid ""
+"\n"
+"                  <h2>افزونه کیت پک المنتور</h2>\n"
+"                  <p>افزونه کیت پک المنتور با هدف آماده کردن تمپلیت های آماده برای "
+"سایت ساز المنتور پیاده سازی شده است. <br />\n"
+"                  علاوه بر این سعی کردیم چندین امکان را به صورت یکجا در این افزونه "
+"قرار دهیم تا کاربران با نصب یک افزونه اکثر نیاز هایشان در رابطه با استفاده از "
+"المنتور برطرف شود.<br />\n"
+"                  همچنین در این افزونه سعی کرده ایم به شما کاربران عزیز حق انتخاب "
+"دهیم و بتوانید امکانات را بر اساس نیاز خود فعال و غیر فعال نمایید.<br /><br />\n"
+"                  <strong> علی رحمانی <br />\n"
+"                   <a href=\"https://kitpack.ir\" target=\"_blank\">کیت پک برای "
+"المنتور</a>\n"
+"                  </p>"
+msgstr ""
+"\n"
+"                  <h2>افزونه کیت پک المنتور</h2>\n"
+"                  <p>افزونه کیت پک المنتور با هدف آماده کردن تمپلیت های آماده برای "
+"سایت ساز المنتور پیاده سازی شده است. <br />\n"
+"                  علاوه بر این سعی کردیم چندین امکان را به صورت یکجا در این افزونه "
+"قرار دهیم تا کاربران با نصب یک افزونه اکثر نیاز هایشان در رابطه با استفاده از "
+"المنتور برطرف شود.<br />\n"
+"                  همچنین در این افزونه سعی کرده ایم به شما کاربران عزیز حق انتخاب "
+"دهیم و بتوانید امکانات را بر اساس نیاز خود فعال و غیر فعال نمایید.<br /><br />\n"
+"                  <strong> علی رحمانی <br />\n"
+"                   <a href=\"https://kitpack.ir\" target=\"_blank\">کیت پک برای "
+"المنتور</a>\n"
+"                  </p>"
+
+#: includes/KPE_Options.class.php:257
+msgid "پشتیبانی"
+msgstr "پشتیبانی"
+
+#: includes/KPE_Options.class.php:258
+msgid ""
+"برای دریافت پشتیبانی می توانید به <a href=\"https://kitpack.ir\">kitpack.ir</a> "
+"مراجعه کنید"
+msgstr ""
+"برای دریافت پشتیبانی می توانید به <a href=\"https://kitpack.ir\">kitpack.ir</a> "
+"مراجعه کنید"
+
+#: includes/lib/elementor-fonts.php:7
+msgid "پک فونت های فارسی"
+msgstr "پک فونت های فارسی"
+
+#: includes/lib/elementor-icons.php:11
+msgid "آیکون پک ایرانی"
+msgstr "آیکون پک ایرانی"
+
+#: includes/lib/exopite-simple-options/exopite-simple-options-framework-class.php:710
+#: includes/lib/exopite-simple-options/exopite-simple-options-framework-class.php:733
+msgid "Settings"
+msgstr "Settings"
+
+#: includes/lib/exopite-simple-options/exopite-simple-options-framework-class.php:796
+#: includes/lib/exopite-simple-options/exopite-simple-options-framework-class.php:800
+msgid "Plugin Options"
+msgstr "Plugin Options"
+
+#: includes/lib/exopite-simple-options/exopite-simple-options-framework-class.php:1506
+msgid "ERROR:"
+msgstr "ERROR:"
+
+#: includes/lib/exopite-simple-options/exopite-simple-options-framework-class.php:1507
+msgid "This field class is not available!"
+msgstr "This field class is not available!"
+
+#: includes/lib/exopite-simple-options/exopite-simple-options-framework-class.php:1579
+msgid "Saving..."
+msgstr "Saving..."
+
+#: includes/lib/exopite-simple-options/exopite-simple-options-framework-class.php:1579
+msgid "Saved Successfully."
+msgstr "Saved Successfully."
+
+#: includes/lib/exopite-simple-options/exopite-simple-options-framework-class.php:1597
+#: includes/lib/exopite-simple-options/exopite-simple-options-framework-class.php:1612
+msgid "Save Settings"
+msgstr "Save Settings"
+
+#: includes/lib/exopite-simple-options/fields/attached.php:45
+#, php-format
+msgid "There is no attachment with type %s for this %s."
+msgstr "There is no attachment with type %s for this %s."
+
+#: includes/lib/exopite-simple-options/fields/backup.php:41
+msgid "copy-paste your backup string here"
+msgstr "copy-paste your backup string here"
+
+#: includes/lib/exopite-simple-options/fields/backup.php:42
+msgid "Are you sure, you want to overwrite existing options?"
+msgstr "Are you sure, you want to overwrite existing options?"
+
+#: includes/lib/exopite-simple-options/fields/backup.php:42
+msgid "Import a Backup"
+msgstr "Import a Backup"
+
+#: includes/lib/exopite-simple-options/fields/backup.php:46
+msgid "Download Backup"
+msgstr "Download Backup"
+
+#: includes/lib/exopite-simple-options/fields/backup.php:49
+msgid "Please be sure for reset all of framework options."
+msgstr "Please be sure for reset all of framework options."
+
+#: includes/lib/exopite-simple-options/fields/backup.php:50
+msgid "Are you sure, you want to reset all options?"
+msgstr "Are you sure, you want to reset all options?"
+
+#: includes/lib/exopite-simple-options/fields/backup.php:50
+msgid "Reset All Options"
+msgstr "Reset All Options"
+
+#: includes/lib/exopite-simple-options/fields/gallery.php:25
+msgid "Add to gallery"
+msgstr "Add to gallery"
+
+#: includes/lib/exopite-simple-options/fields/gallery.php:26
+msgid "Select images for gallery"
+msgstr "Select images for gallery"
+
+#: includes/lib/exopite-simple-options/fields/gallery.php:27
+msgid "Add"
+msgstr "Add"
+
+#: includes/lib/exopite-simple-options/fields/group.php:350
+msgid "Max items:"
+msgstr "Max items:"
+
+#: includes/lib/exopite-simple-options/fields/image.php:77
+msgid "Add Image"
+msgstr "Add Image"
+
+#: includes/lib/exopite-simple-options/fields/typography.php:81
+msgid "Web Safe Fonts"
+msgstr "Web Safe Fonts"
+
+#: includes/lib/exopite-simple-options/fields/typography.php:87
+msgid "Google Fonts"
+msgstr "Google Fonts"
+
+#: includes/lib/exopite-simple-options/fields/typography.php:177
+msgid "Error! Can not load json file."
+msgstr "Error! Can not load json file."
+
+#: includes/lib/exopite-simple-options/fields/upload.php:73
+msgid "Drop files here"
+msgstr "Drop files here"
+
+#: includes/lib/exopite-simple-options/fields/upload.php:83
+msgid "Select files"
+msgstr "Select files"
+
+#: includes/lib/exopite-simple-options/fields/upload.php:86
+msgid "Upload"
+msgstr "Upload"
+
+#: includes/lib/exopite-simple-options/fields/upload.php:90
+msgid "Processing dropped files..."
+msgstr "Processing dropped files..."
+
+#: includes/lib/exopite-simple-options/fields/upload.php:108
+#: includes/lib/exopite-simple-options/fields/upload.php:140
+msgid "Cancel"
+msgstr "Cancel"
+
+#: includes/lib/exopite-simple-options/fields/upload.php:110
+msgid "Retry"
+msgstr "Retry"
+
+#: includes/lib/exopite-simple-options/fields/upload.php:112
+msgid "Delete"
+msgstr "Delete"
+
+#: includes/lib/exopite-simple-options/fields/upload.php:121
+msgid "Close"
+msgstr "Close"
+
+#: includes/lib/exopite-simple-options/fields/upload.php:129
+msgid "No"
+msgstr "No"
+
+#: includes/lib/exopite-simple-options/fields/upload.php:131
+msgid "Yes"
+msgstr "Yes"
+
+#: includes/lib/exopite-simple-options/fields/upload.php:142
+msgid "Ok"
+msgstr "Ok"
+
+#: includes/lib/exopite-simple-options/fields/upload.php:181
+msgid "Max amount of files: "
+msgstr "Max amount of files: "
+
+#: includes/lib/exopite-simple-options/fields/upload.php:182
+msgid "Max file upload size: "
+msgstr "Max file upload size: "
+
+#: includes/lib/exopite-simple-options/fields/video.php:74
+msgid "Add Video"
+msgstr "Add Video"
+
+#: kit-pack-for-persian-elementor.php:117
+msgid "تنظیمات"
+msgstr "تنظیمات"
